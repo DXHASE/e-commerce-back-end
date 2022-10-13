@@ -30,4 +30,4 @@
   ## Questions
   - If you have any questions over the project, contact me at: danielchas886@gmail.com
   - Github Link: https://github.com/DXHASE
-  ## Video
+  ## Video[Untitled_ Oct 12, 2022 9_52 PM.webm.zip](https://github.com/DXHASE/e-commerce-back-end/files/9770074/Untitled_.Oct.12.2022.9_52.PM.webm.zip)
